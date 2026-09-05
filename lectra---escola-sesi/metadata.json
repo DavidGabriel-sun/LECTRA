@@ -1,0 +1,6 @@
+{
+  "name": "Lectra - Escola SESI",
+  "description": "Aplicativo educacional Lectra com Escola SESI contendo Login, Aulas de Hoje, Planejador (Plan), Tarefas (Tasks), Alertas de Prazos e Leitura com Dúvidas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
